@@ -2,3 +2,4 @@ hello world
 sec line
 3rd line
 new line from remote repo
+new line from local
